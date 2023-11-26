@@ -1,0 +1,13 @@
+.wrapper{
+    display: block;
+    margin: 0 auto;
+}
+.info_photographer{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    max-width: 500px;
+}
+.liked{
+    background-color: aqua;
+}
